@@ -12,7 +12,7 @@ This repository aims to provide a full list of works about dataset distillation 
 ### Papers in 2022 [[Back-to-top](#Dataset-distillation-papers)]
 
 | Title     | Type      | Task      | Dataset       | Venue     | Supp. Material     |
-|---------|---------|---------|---------|---------|---------|
+|-------------|---------|---------|---------|---------|---------|
 |[**Private Set Generation with Discriminative Information**](https://openreview.net/pdf?id=mxnxRw8jiru) (Chen et al) |  |  Application: Private Data Generation | MNIST, FashionMNIST | NeurIPS, 2022 | [Code](https://github.com/DingfanChen/Private-Set), [Poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/53552.png?t=1668599242.828518) |
 |[**DC-BENCH: Dataset Condensation Benchmark**](https://openreview.net/pdf?id=Bs8iFQ7AM6) (Cui et al) | Benchmark  | Image Classification |  | NeurIPS, 2022 | [Code](https://dc-bench.github.io/), [Poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55673.png?t=1669626268.8753998) |
 |[**Dataset Distillation using Neural Feature Regression**](https://openreview.net/pdf?id=2clwrA2tfik) |  | Image Classification | CIFAR100, TinyImageNet, ImageNette and ImageWoof | NeurIPS, 2022 | [Code](https://github.com/yongchao97/FRePo), [Slide](https://docs.google.com/presentation/d/10NMtEVsW-nbEWgbTEJQYMH-rdgOklXZF/edit#slide=id.p3) |
