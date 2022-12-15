@@ -13,7 +13,7 @@ This repository aims to provide a full list of works about dataset distillation 
 
 | Author    | Title     | Type      | Task      | Dataset       | Venue     | Supp. Material     |
 |---------|---------|---------|---------|---------|---------|---------|
-| Guang Li et al|[**Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing**](https://arxiv.org/pdf/2209.14635.pdf) | Soft-Label Distillation |  Application: Medical Data Sharing | Gastric X-ray | arXiv, Dec., 2022 |  |
+| Guang Li et al|[**Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing**](https://www.sciencedirect.com/science/article/pii/S0169260722005703) | Soft-Label Distillation |  Application: Medical Data Sharing | Gastric X-ray | Computer Methods and Programs in Biomedicine, 2022 |  |
 | Noveen Sachdeva et al |[**Infinite Recommendation Networks: A Data-Centric Approach**](https://arxiv.org/pdf/2206.02626.pdf) | Neural Tangent Kernel | Application: Recommender System  | Amazon Magazine, ML-1M, Douban, Netflix | NeurIPS, 2022 | [Code](https://github.com/noveens/distill_cf) |
 | Dingfang Chen et al | [**Private Set Generation with Discriminative Information**](https://openreview.net/pdf?id=mxnxRw8jiru) |  |  Application: Private Data Generation | MNIST, FashionMNIST | NeurIPS, 2022 | [Code](https://github.com/DingfanChen/Private-Set), [Poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/53552.png?t=1668599242.828518) |
 | Justin Cui et al | [**DC-BENCH: Dataset Condensation Benchmark**](https://openreview.net/pdf?id=Bs8iFQ7AM6) | Benchmark  | Image Classification |  | NeurIPS, 2022 | [Code](https://dc-bench.github.io/), [Poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55673.png?t=1669626268.8753998) |
@@ -35,6 +35,7 @@ This repository aims to provide a full list of works about dataset distillation 
 | Zixuan Jiang et al |[**Delving into Effective Gradient Matching for Dataset Condensation**](https://arxiv.org/pdf/2208.00311.pdf) | Gradient Matching |  Image Classification |  MNIST/FashionMNIST, SVHN, CIFAR-10/100. | arXiv, Jul., 2022 | [Code]() |
 | Yuanhao Xiong et al |[**FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning**](https://arxiv.org/pdf/2207.09653.pdf) |  |  Application: FL | MNIST, CIFAR10/100 | arXiv, Jul., 2022 |  |
 | Nadiya Shvai et al |[**DEvS: Data Distillation Algorithm Based on Evolution Strategy**](https://dl.acm.org/doi/pdf/10.1145/3520304.3528819) | Evolution Strategy |  Image Classification |  CIFAR-10 | GECCO, 2022 |  |
+| Mattia Sangermano |[**Sample Condensation in Online Continual Learning**](https://ieeexplore.ieee.org/abstract/document/9892299/) | Gradient Matching |  Application: Continual learning | SplitMNIST, SplitFashionMNIST, SplitCIFAR10 | IJCNN, 2022 | [Code](https://github.com/MattiaSangermano/OLCGM) |
 | George Cazenavette et al |[**Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation**](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.pdf) |  | Image Classification |  |CVPRW, 2022 | [Code](https://github.com/GeorgeCazenavette/mtt-distillation) |
 | George Cazenavette et al |[**Dataset Distillation by Matching Training Trajectories**](https://openaccess.thecvf.com/content/CVPR2022/papers/Cazenavette_Dataset_Distillation_by_Matching_Training_Trajectories_CVPR_2022_paper.pdf) | Trajectory Matching  | Image Classification |  CIFAR-100, Tiny ImageNet, ImageNet subsets | CVPR, 2022 | [Code](https://georgecazenavette.github.io/mtt-distillation/) |
 | Kai Wang et al |[**CAFE: Learning to Condense Dataset by Aligning Features**](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CAFE_Learning_To_Condense_Dataset_by_Aligning_Features_CVPR_2022_paper.pdf) | Feature Alignment |  Image Classification | MNIST, FashionMNIST, SVHN, CIFAR10/100 | CVPR, 2022 | [Code](https://github.com/kaiwang960112/CAFE) |
@@ -100,4 +101,6 @@ This repository aims to provide a full list of works about dataset distillation 
 
 
 | |[** **]() |  |  Image Classification |  |  | [Code]() |
+
+
 
