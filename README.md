@@ -28,6 +28,8 @@ This repository aims to provide a full list of works about dataset distillation 
 | Justin Cui et al |[**Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory**](https://arxiv.org/abs/2211.10586) |  | Image Classification | CIFAR-10/100, ImageNet-1K  | arXiv, Nov., 2022 |  |
 | Renjie Pi et al |[**DYNAFED: Tackling Client Data Heterogeneity with Global Dynamics**](https://arxiv.org/pdf/2211.10878.pdf) |  |  Application: FL | FMNIST, CIFAR10, CINIC10 | arXiv, Nov., 2022 |  |
 | Zongwei Wang et al |[**Quick Graph Conversion for Robust Recommendation**](https://arxiv.org/pdf/2210.10321.pdf) | Gradient Matching |  Application: Recommender System | Beauty, Alibaba-iFashion, Yelp2018 | arXiv, Oct., 2022 | |
+| Yulan Chen et al |[**Learning from Designers: Fashion Compatibility Analysis Via Dataset Distillation**](https://ieeexplore.ieee.org/document/9897234) |  |  Application: Fashion Analysis |  | ICIP, 2022 |  |
+| Yuna Jeong et al |[**Training data selection based on dataset distillation for rapid deployment in machine-learning workflows**](https://link.springer.com.remotexs.ntu.edu.sg/article/10.1007/s11042-022-13701-6) |  |  Application: Dataset Selection |  | Multimedia Tools and Applications, 2022 | |
 | Yanlin Zhou et al |[**Communication-Efficient and Attack-Resistant Federated Edge Learning with Dataset Distillation**](https://ieeexplore.ieee.org/abstract/document/9925087) | MNIST, Landmark, IMDB, etc |  Application: FL |  | IEEE TCC, 2022 | [Code]() |
 | Nicholas Carlini et al |[**No Free Lunch in "Privacy for Free: How does Dataset Condensation Help Privacy"**](https://arxiv.org/abs/2209.14987) |  |  Application: Privacy | CIFAR-10 | arXiv, Sept., 2022 |  |
 | Guang Li et al |[**Dataset Distillation for Medical Dataset Sharing**](https://arxiv.org/pdf/2209.14603.pdf) | Trajectory Matching |  Application: Medical Data Sharing| COVID-19 Chest X-ray | arXiv, Sept., 2022 |  |
@@ -42,6 +44,7 @@ This repository aims to provide a full list of works about dataset distillation 
 | Yuanhao Xiong et al |[**FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning**](https://arxiv.org/pdf/2207.09653.pdf) |  |  Application: FL | MNIST, CIFAR10/100 | arXiv, Jul., 2022 |  |
 | Nadiya Shvai et al |[**DEvS: Data Distillation Algorithm Based on Evolution Strategy**](https://dl.acm.org/doi/pdf/10.1145/3520304.3528819) | Evolution Strategy |  Image Classification |  CIFAR-10 | GECCO, 2022 |  |
 | Mattia Sangermano |[**Sample Condensation in Online Continual Learning**](https://ieeexplore.ieee.org/abstract/document/9892299/) | Gradient Matching |  Application: Continual learning | SplitMNIST, SplitFashionMNIST, SplitCIFAR10 | IJCNN, 2022 | [Code](https://github.com/MattiaSangermano/OLCGM) |
+| Brian Moser et al |[**Less is More: Proxy Datasets in NAS approaches**](https://openaccess.thecvf.com/content/CVPR2022W/NAS/papers/Moser_Less_Is_More_Proxy_Datasets_in_NAS_Approaches_CVPRW_2022_paper.pdf) |  |  Application: NAS |  | CVPRW, 2022 | |
 | George Cazenavette et al |[**Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation**](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.pdf) |  | Image Classification |  |CVPRW, 2022 | [Code](https://github.com/GeorgeCazenavette/mtt-distillation) |
 | George Cazenavette et al |[**Dataset Distillation by Matching Training Trajectories**](https://openaccess.thecvf.com/content/CVPR2022/papers/Cazenavette_Dataset_Distillation_by_Matching_Training_Trajectories_CVPR_2022_paper.pdf) | Trajectory Matching  | Image Classification |  CIFAR-100, Tiny ImageNet, ImageNet subsets | CVPR, 2022 | [Code](https://georgecazenavette.github.io/mtt-distillation/) |
 | Kai Wang et al |[**CAFE: Learning to Condense Dataset by Aligning Features**](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CAFE_Learning_To_Condense_Dataset_by_Aligning_Features_CVPR_2022_paper.pdf) | Feature Alignment |  Image Classification | MNIST, FashionMNIST, SVHN, CIFAR10/100 | CVPR, 2022 | [Code](https://github.com/kaiwang960112/CAFE) |
@@ -55,7 +58,9 @@ This repository aims to provide a full list of works about dataset distillation 
 | Aminu Musa et al |[**Learning from Small Datasets: An Efficient Deep Learning Model for Covid-19 Detection from Chest X-ray Using Dataset Distillation Technique**](https://ieeexplore.ieee.org/abstract/document/9803131) |  | Application: Medical Imaging | Chest X-ray | NIGERCON, 2022 |  |
 | Seong-Woong Kim et al |[**Stable Federated Learning with Dataset Condensation**](http://jcse.kiise.org/files/V16N1-05.pdf) |  |  Application: FL | CIFAR-10 | JCSE, 2022 |  |
 | Robin T. Schirrmeister et al |[**When less is more: Simplifying inputs aids neural network understanding**](https://arxiv.org/pdf/2201.05610.pdf) |  |  Application: Understanding NN | MNIST, Fashion-MNIST, CIFAR10/100, | arXiv, Jan, 2022 | |
+| Isha Garg et al |[**TOFU: Towards Obfuscated Federated Updates by Encoding Weight Updates into Gradients from Proxy Data**](https://arxiv.org/pdf/2201.08494.pdf) |  |  Application: FL |  | arXiv, Jan., 2022 |  |
 | |[** **]() |  |  Image Classification |  |  | [Code]() |
+
 
 
 
@@ -85,6 +90,7 @@ This repository aims to provide a full list of works about dataset distillation 
 ### Papers in 2020 [[Back-to-top](#Dataset-distillation-papers)]
 | Author    | Title     | Type      | Task      | Dataset       | Venue     | Supp. Material     |
 |---------|---------|---------|---------|---------|---------|---------|
+| Yanlin Zhou et al |[**Distilled One-Shot Federated Learning**](https://arxiv.org/pdf/2009.07999.pdf) |  |  Application: FL |  | arXiv, Sept., 2020 |  |
 | Ondrej Bohdal et al |[**Flexible Dataset Distillation: Learn Labels Instead of Images**](https://arxiv.org/pdf/2006.08572.pdf) | Label Distillation |  Image Classification |  MNIST, CIFAR-10/100, CUB | NeurIPS workshop, 2020 | [Code](https://github.com/ondrejbohdal/label-distillation) |
 | Chengeng Huang et al |[**Generative Dataset Distillation**](https://ieeexplore.ieee.org/abstract/document/9546880) | Generative Adversarial Networks | MNIST | Image Classification  | BigCom, 2021 | |
 | Jack Goetz et al |[**Federated Learning via Synthetic Data**](https://arxiv.org/pdf/2008.04489.pdf) | Bi-level Optimization |  Application: FL |  | arXiv, Aug., 2020  |  |
