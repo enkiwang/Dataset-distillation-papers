@@ -4,8 +4,16 @@ This repository aims to provide a full list of works about dataset distillation 
 
 
 ## Quick links
-**Papers sorted by year:** | [2022](#Papers-in-2022-back-to-top) | [2021](#Papers-in-2021-back-to-top) | [2020](#Papers-in-2020-back-to-top) | [2019](#Papers-in-2019-back-to-top) | [2018](#Papers-in-2018-back-to-top) | 
+**Papers sorted by year:** | [2023](#Papers-in-2023-back-to-top) | [2022](#Papers-in-2022-back-to-top) | [2021](#Papers-in-2021-back-to-top) | [2020](#Papers-in-2020-back-to-top) | [2019](#Papers-in-2019-back-to-top) | [2018](#Papers-in-2018-back-to-top) | 
 
+
+
+## 2023
+### Papers in 2023 [[Back-to-top](#Dataset-distillation-papers)]
+
+| Author    | Title     | Type      | Task      | Dataset       | Venue     | Supp. Material     |
+|---------|---------|---------|---------|---------|---------|---------|
+| Yugeng Liu et al|[**Backdoor Attacks Against Dataset Distillation**](https://arxiv.org/abs/2301.01197) |  |  Security | FMNIST, CIFAR10, STL10, SVHN | NDSS, 2023 | [Code](https://github.com/liuyugeng/baadd) |
 
 
 ## 2022
@@ -15,6 +23,7 @@ This repository aims to provide a full list of works about dataset distillation 
 |---------|---------|---------|---------|---------|---------|---------|
 | Guang Li et al|[**Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing**](https://www.sciencedirect.com/science/article/pii/S0169260722005703) | Soft-Label Distillation |  Application: Medical Data Sharing | Gastric X-ray | Computer Methods and Programs in Biomedicine, 2022 |  |
 | Zijia Wang et al |[**Gift from nature: Potential Energy Minimization for explainable dataset distillation**](https://openaccess.thecvf.com/content/ACCV2022W/MLCSA/papers/Wang_Gift_from_nature_Potential_Energy_Minimization_for_explainable_dataset_distillation_ACCVW_2022_paper.pdf) | Potential Energy Minimization |  Image Classification | miniImageNet, CUB-200 | ACCV Workshop, 2022 |  |
+| Michael Arbel  et al |[**Non-Convex Bilevel Games with Critical Point Selection Maps**](https://arxiv.org/pdf/2207.04888.pdf) | General Optimization |  Image Classification | CIFAR-10 | NeurIPS, 2022 |  |
 | Zhiwei Deng et al |[**Remember the Past: Distilling Datasets into Addressable Memories for Neural Networks**](https://openreview.net/pdf?id=RYZyj_wwgfa) |  |  Image Classification |  MNIST, SVHN, CIFAR10/100, TinyImageNet | NeurIPS, 2022 | [Code](https://github.com/princetonvisualai/RememberThePast-DatasetDistillation) |
 | Noveen Sachdeva et al |[**Infinite Recommendation Networks: A Data-Centric Approach**](https://arxiv.org/pdf/2206.02626.pdf) | Neural Tangent Kernel | Application: Recommender System  | Amazon Magazine, ML-1M, Douban, Netflix | NeurIPS, 2022 | [Code](https://github.com/noveens/distill_cf) |
 | Dingfang Chen et al | [**Private Set Generation with Discriminative Information**](https://openreview.net/pdf?id=mxnxRw8jiru) |  |  Application: Private Data Generation | MNIST, FashionMNIST | NeurIPS, 2022 | [Code](https://github.com/DingfanChen/Private-Set), [Poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/53552.png?t=1668599242.828518) |
@@ -52,6 +61,7 @@ This repository aims to provide a full list of works about dataset distillation 
 | Saehyung Lee et al |[**Dataset Condensation with Contrastive Signals**](https://proceedings.mlr.press/v162/lee22b/lee22b.pdf) | Contrastive Learning |  Image Classification | SVHN, CIFAR-10/100; Automobile, Terrier, Fish | ICML 2022 | [Code](https://github.com/Saehyung-Lee/DCC) |
 | Jang-Hyun Kim et al |[**Dataset Condensation via Efficient Synthetic-Data Parameterization**](https://proceedings.mlr.press/v162/kim22c/kim22c.pdf) |  |  Image Classification |  CIFAR-10, ImageNet, Speech Commands | ICML, 2022 | [Code](https://github.com/snu-mllab/Efficient-Dataset-Condensation) |
 | Tian Dong et al |[**Privacy for Free: How does Dataset Condensation Help Privacy?**](https://proceedings.mlr.press/v162/dong22c/dong22c.pdf) | Application: Privacy | Image Classification |  | ICML, 2022 |  |
+| Paul Vicol et al |[**On Implicit Bias in Overparameterized Bilevel Optimization**](https://proceedings.mlr.press/v162/vicol22a.html) | General Optimization |  Image Classification | MNIST | ICML, 2022 |  |
 | Wei Jin et al |[**Graph Condensation for Graph Neural Networks**](https://openreview.net/pdf?id=WLEx3Jo4QaB) | Gradient Matching | Graph Classification | Cora, Citeseer, Ogbn-arxiv; Reddit, Flickr | ICLR, 2022 | [Code](https://github.com/ChandlerBang/GCond) |
 | Bo Zhao et al |[**Synthesizing Informative Training Samples with GAN**](https://arxiv.org/pdf/2204.07513.pdf) | GAN | Image Classification | CIFAR-10/100  | arXiv, Apr. 2022  | [Code](https://github.com/VICO-UoE/IT-GAN) |
 | Shengyuan Hu et al |[**FedSynth: Gradient Compression via Synthetic Data in Federated Learning**](https://arxiv.org/pdf/2204.01273.pdf) |  | Application: FL | MNIST, FEMNIST, Reddit |  |  |
