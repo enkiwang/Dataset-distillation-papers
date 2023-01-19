@@ -13,6 +13,8 @@ This repository aims to provide a full list of works about dataset distillation 
 
 | Author    | Title     | Type      | Task      | Dataset       | Venue     | Supp. Material     |
 |---------|---------|---------|---------|---------|---------|---------|
+| Ruonan Yu et al |[**Dataset Distillation: A Comprehensive Review**](https://arxiv.org/pdf/2301.07014.pdf) | Survey |  Multiple tasks |  | arXiv, Jan., 2023 |  |
+| Noveen Sachdeva et al |[**Data Distillation: A Survey**](https://arxiv.org/pdf/2301.04272.pdf) | Survey | Multiple tasks  |  | arXiv, Jan., 2023 |  |
 | Yugeng Liu et al|[**Backdoor Attacks Against Dataset Distillation**](https://arxiv.org/abs/2301.01197) |  |  Security | FMNIST, CIFAR10, STL10, SVHN | NDSS, 2023 | [Code](https://github.com/liuyugeng/baadd) |
 
 
@@ -106,7 +108,6 @@ This repository aims to provide a full list of works about dataset distillation 
 | Jack Goetz et al |[**Federated Learning via Synthetic Data**](https://arxiv.org/pdf/2008.04489.pdf) | Bi-level Optimization |  Application: FL |  | arXiv, Aug., 2020  |  |
 | Guang Li et al |[**Soft-Label Anonymous Gastric X-Ray Image Distillation**](https://ieeexplore.ieee.org/abstract/document/9191357) | Label Distillation |  Application: Medical Data Sharing | X-ray Images | ICIP, 2020 |  |
 
-| |[** **]() |  |  Image Classification |  |  | [Code]() |
 
 
 
