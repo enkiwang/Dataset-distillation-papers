@@ -14,6 +14,7 @@ This repository aims to provide a full list of works about dataset distillation 
 | Author    | Title     | Type      | Task      | Dataset       | Venue     | Supp. Material     |
 |---------|---------|---------|---------|---------|---------|---------|
 | Ruonan Yu et al |[**Dataset Distillation: A Comprehensive Review**](https://arxiv.org/pdf/2301.07014.pdf) | Survey |  Multiple tasks |  | arXiv, Jan., 2023 |  |
+| Shiye Lei et al |[**A Comprehensive Survey to Dataset Distillation**](https://arxiv.org/pdf/2301.05603.pdf) | Survey |  Multiple tasks |  | arXiv, Jan., 2023 |  |
 | Noveen Sachdeva et al |[**Data Distillation: A Survey**](https://arxiv.org/pdf/2301.04272.pdf) | Survey | Multiple tasks  |  | arXiv, Jan., 2023 |  |
 | Yugeng Liu et al|[**Backdoor Attacks Against Dataset Distillation**](https://arxiv.org/abs/2301.01197) |  |  Security | FMNIST, CIFAR10, STL10, SVHN | NDSS, 2023 | [Code](https://github.com/liuyugeng/baadd) |
 
