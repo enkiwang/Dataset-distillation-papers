@@ -70,7 +70,6 @@ This repository aims to provide a full list of works about dataset distillation 
 | Seong-Woong Kim et al |[**Stable Federated Learning with Dataset Condensation**](http://jcse.kiise.org/files/V16N1-05.pdf) |  |  Application: FL | CIFAR-10 | JCSE, 2022 |  |
 | Robin T. Schirrmeister et al |[**When less is more: Simplifying inputs aids neural network understanding**](https://arxiv.org/pdf/2201.05610.pdf) |  |  Application: Understanding NN | MNIST, Fashion-MNIST, CIFAR10/100, | arXiv, Jan, 2022 | |
 | Isha Garg et al |[**TOFU: Towards Obfuscated Federated Updates by Encoding Weight Updates into Gradients from Proxy Data**](https://arxiv.org/pdf/2201.08494.pdf) |  |  Application: FL |  | arXiv, Jan., 2022 |  |
-| |[** **]() |  |  Image Classification |  |  | [Code]() |
 
 
 
@@ -130,7 +129,8 @@ This repository aims to provide a full list of works about dataset distillation 
 
 
 
-| |[** **]() |  |  Image Classification |  |  | [Code]() |
+<!-- | |[** **]() |  |  Image Classification |  |  | [Code]() | -->
 
+<!-- | |[** **]() |  |  Image Classification |  |  | [Code]() | -->
 
 
