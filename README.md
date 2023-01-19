@@ -115,7 +115,7 @@ This repository aims to provide a full list of works about dataset distillation 
 | Author    | Title     | Type      | Task      | Dataset       | Venue     | Supp. Material     |
 |---------|---------|---------|---------|---------|---------|---------|
 | Sam Shleifer et al |[**Proxy Datasets for Training Convolutional Neural Networks**](https://arxiv.org/pdf/1906.04887.pdf) |  |  Application: Proxy Dataset Generation |  Imagenette, Imagewoof | arXiv, Jun., 2019 |  |
-| |[** **]() |  |  Image Classification |  |  | [Code]() |
+
 
 
 
@@ -128,8 +128,6 @@ This repository aims to provide a full list of works about dataset distillation 
 | Tongzhou Wang et al |[**Dataset Distillation**](https://arxiv.org/pdf/1811.10959.pdf) | Bi-level Optimization | Image Classification | MNIST, CIFAR-10 | arXiv, Nov., 2018 | [Code](https://github.com/SsnL/dataset-distillation) |
 
 
-
-<!-- | |[** **]() |  |  Image Classification |  |  | [Code]() | -->
 
 <!-- | |[** **]() |  |  Image Classification |  |  | [Code]() | -->
 
